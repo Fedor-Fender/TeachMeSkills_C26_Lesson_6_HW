@@ -18,7 +18,9 @@ public class Student {
 
     public void outputStudent(String[][]matrix) {
         for (String[] name:matrix) {
-        } System.out.println(Arrays.deepToString(matrix));
+        }
+        System.out.println(Arrays.deepToString(matrix));
+
     }
 }
 
